@@ -5,7 +5,7 @@
  *
  * Description: Source file for TM4C123GH6PM Microcontroller - Dio Driver
  *
- * Author: Kareb Bassem
+ * Author: Karen Bassem
  ******************************************************************************/
 
 #include "Dio.h"
