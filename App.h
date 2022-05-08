@@ -1,14 +1,3 @@
- /******************************************************************************
- *
- * Module: application
- *
- * File Name: App.h
- *
- * Description: Header file for Application Tasks.
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
-
 #ifndef APP_H_
 #define APP_H_
 
