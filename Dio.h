@@ -1,13 +1,3 @@
- /******************************************************************************
- * Module: Dio
- *
- * File Name: Dio.h
- *
- * Description: Header file for TM4C123GH6PM Microcontroller - Dio Driver
- *
- * Author: Mohamed Tarek
- ******************************************************************************/
-
 #ifndef DIO_H
 #define DIO_H
 
